@@ -1,0 +1,84 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/Nico/Downloads/Laberinto-Tiled.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Bosque.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Nico/Downloads/Laberinto-Tiled.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 662.6666666666665,
+                "y": 506.6666666666666
+            }
+        },
+        "Cerrado 2.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "Cerrado.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
+        "Cosas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        },
+        "Gimnasio 2.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Gimnasio.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "Hielo 2.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "Hielo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Nico/Desktop",
+    "map.height": 64,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 64,
+    "openFiles": [
+        "C:/Users/Nico/Downloads/Laberinto-Tiled.tmx",
+        "Bosque.tsx",
+        "Gimnasio.tsx",
+        "Gimnasio 2.tsx",
+        "Hielo.tsx",
+        "Hielo 2.tsx",
+        "Cerrado.tsx"
+    ],
+    "project": "Laberinto-Tiled.tiled-project",
+    "recentFiles": [
+        "Cerrado.tsx",
+        "Hielo 2.tsx",
+        "Hielo.tsx",
+        "Gimnasio 2.tsx",
+        "Gimnasio.tsx",
+        "Bosque.tsx",
+        "C:/Users/Nico/Downloads/Laberinto-Tiled.tmx",
+        "Cerrado 2.tsx",
+        "Cosas.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

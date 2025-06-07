@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset version="1.10" tiledversion="1.11.2" name="Gimnasio" tilewidth="16" tileheight="16" tilecount="385" columns="11">
+ <image source="../Assets/Gimnasio.png" width="178" height="570"/>
+ <tile id="0">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="1">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="2">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="3">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="4">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="5">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="6">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="7">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="8">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="9">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="10">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="11">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="12">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="13">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="14">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="15">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="16">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="17">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="18">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="19">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="20">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="21">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="22">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="25">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="29">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="32">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="36">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="40">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="66">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="69">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="70">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="71">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="72">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="73">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="74">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="75">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="76">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="77">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="80">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="81">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="82">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="83">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="84">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="85">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="86">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="87">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="88">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="97">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="98">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="99">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="103">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="105">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="106">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="108">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="109">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="110">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="114">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="116">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="117">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="119">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="120">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="121">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="123">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="124">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="125">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="130">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="131">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="132">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="138">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="139">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="140">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="141">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="142">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="143">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="145">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="146">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="150">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="151">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="152">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="153">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="154">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="156">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="157">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="163">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="164">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="165">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="167">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="168">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="169">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="171">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="172">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="174">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="175">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="189">
+  <objectgroup>
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="200">
+  <objectgroup draworder="index" id="2">
+   <object id="1" type="Pared" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+</tileset>
