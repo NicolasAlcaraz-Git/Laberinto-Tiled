@@ -5,6 +5,7 @@ export default class Game extends Phaser.Scene {
   }
 
   preload() {
+    
     // Carga del mapa y los tilesets
     this.load.tilemapTiledJSON("mapa", "/public/assets/tilemap/Laberinto-Tiled.json");
 
@@ -22,6 +23,7 @@ export default class Game extends Phaser.Scene {
   }
 
   create() {
+
     // Crea el mapa
     this.map = this.make.tilemap({ key: "mapa" });
 
@@ -123,6 +125,7 @@ export default class Game extends Phaser.Scene {
   }
 
   update() {
+
     // Manejo de teclas
     if (Phaser.Input.Keyboard.JustDown(this.keyR)) {
       this.scene.restart();
