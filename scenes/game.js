@@ -1,4 +1,4 @@
-export default class Game extends Phaser.Scene {     //ESTOY INTENTANDO QUE EL JUEGO CORRA EN GITHUB ACTUALMENTE, PERO NO ME FUNCIONA.
+export default class Game extends Phaser.Scene {
   constructor() {
     super("game");
     this.items = null;
