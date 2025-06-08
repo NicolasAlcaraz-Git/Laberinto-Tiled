@@ -1,4 +1,4 @@
-export default class Game extends Phaser.Scene {
+export default class Game extends Phaser.Scene {     //ESTOY INTENTANDO QUE EL JUEGO CORRA EN GITHUB ACTUALMENTE, PERO NO ME FUNCIONA.
   constructor() {
     super("game");
     this.items = null;
@@ -7,19 +7,19 @@ export default class Game extends Phaser.Scene {
   preload() {
     
     // Carga del mapa y los tilesets
-    this.load.tilemapTiledJSON("mapa", "/public/assets/tilemap/Laberinto-Tiled.json");
+    this.load.tilemapTiledJSON("mapa", "./public/assets/tilemap/Laberinto-Tiled.json");
 
-    this.load.image("Bosque", "/public/assets/Bosque.png");
-    this.load.image("Cerrado", "/public/assets/Cerrado.png");
-    this.load.image("Gimnasio", "/public/assets/Gimnasio.png");
-    this.load.image("Gimnasio 2", "/public/assets/Gimnasio 2.png");
-    this.load.image("Hielo", "/public/assets/Hielo.png");
-    this.load.image("Hielo 2", "/public/assets/Hielo 2.png");
+    this.load.image("Bosque", "./public/assets/Bosque.png");
+    this.load.image("Cerrado", "./public/assets/Cerrado.png");
+    this.load.image("Gimnasio", "./public/assets/Gimnasio.png");
+    this.load.image("Gimnasio 2", "./public/assets/Gimnasio 2.png");
+    this.load.image("Hielo", "./public/assets/Hielo.png");
+    this.load.image("Hielo 2", "./public/assets/Hielo 2.png");
 
     // Sprites
-    this.load.image("player", "/public/assets/Jugador.png");
-    this.load.image("item", "/public/assets/Item.png");
-    this.load.image("victoria", "/public/assets/Victoria.png");
+    this.load.image("player", "./public/assets/Jugador.png");
+    this.load.image("item", "./public/assets/Item.png");
+    this.load.image("victoria", "./public/assets/Victoria.png");
   }
 
   create() {
